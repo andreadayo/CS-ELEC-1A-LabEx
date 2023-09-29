@@ -1,0 +1,8 @@
+Trial 1: Working 87%
+Trial 2: 87% din so it means days since posting does not have much effect
+Trial 3: added locality: fail yung pag add ng locality
+Trial 4: changed locality to city: 87% pa rin pero nag increase mse (better pa rin trial 1)
+Trial 5: all numbers lang -not much change pa rin
+Trial 6: yung existing number data set lang, ayon 20% lang
+
+remember: lagay rin ilang data set nawala sa final data
